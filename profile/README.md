@@ -22,7 +22,7 @@
 
 ## Who we are
 
-**Idin Studio** is a software engineering agency from Bogor, Indonesia — founder-led by **Ahmad Muhyidin (Idin)**. We design, build, and ship production systems for startups and SMBs that want a reliable technical partner, not a body shop.
+**Idin Studio** is a software engineering agency from Bogor, Indonesia — founder-led by **Ahmad Muhyidin**. We design, build, and ship production systems for startups and SMBs that want a reliable technical partner, not a body shop.
 
 We are deliberately boutique. Small enough that the founder owns architecture and critical code — senior enough to ship to production on the first commit. Most of our work runs on a structured agentic AI workflow built around layered skills, project rules, and repeatable execution loops. That is not a buzzword for us — it is how every project is scoped, built, and verified.
 
@@ -189,7 +189,7 @@ Response window: usually within 1 business day on Jakarta time. Start a brief at
 <details>
 <summary><b>What does "founder-led" actually mean?</b></summary>
 
-It means Idin personally owns architecture decisions and writes the critical code on every engagement. We do not subcontract the hard parts. The trade-off is bandwidth — we take a small number of clients at a time, on purpose. If you need a 30-person team next Monday, we are not it. If you want a senior engineer who treats your product like a co-founder would, that is the deal.
+It means Ahmad personally owns architecture decisions and writes the critical code on every engagement. We do not subcontract the hard parts. The trade-off is bandwidth — we take a small number of clients at a time, on purpose. If you need a 30-person team next Monday, we are not it. If you want a senior engineer who treats your product like a co-founder would, that is the deal.
 </details>
 
 <details>
