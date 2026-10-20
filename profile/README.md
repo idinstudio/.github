@@ -22,36 +22,39 @@
 
 ## Who we are
 
-**Idin Studio** is a software engineering agency from Bogor, Indonesia — founder-led by **Ahmad Muhyidin (Idin)**. We design, build, and ship production systems for startups and SMBs that want a reliable technical partner, not a body shop.
+**Idin Studio** is a software engineering agency from Bogor, Indonesia — founder-led by **Ahmad Muhyidin**. We design, build, and ship production systems for startups and SMBs that want a reliable technical partner, not a body shop.
 
 We are deliberately boutique. Small enough that the founder owns architecture and critical code — senior enough to ship to production on the first commit. Most of our work runs on a structured agentic AI workflow built around layered skills, project rules, and repeatable execution loops. That is not a buzzword for us — it is how every project is scoped, built, and verified.
 
-Active client engagements span 18+ months of continuous delivery with a Swiss Industry 4.0 customer, plus product work for fleet operators, F&B, insurance, and our own SaaS. We work in Indonesian and English, anchored in WIB (UTC+7), comfortable bridging into EU and APAC time zones.
+Our longest engagement is 2+ years of continuous delivery (since September 2024) with a Swiss Industry 4.0 customer. We also build AI fleet monitoring and ticketing for an Indonesian intercity bus operator, and two products of our own: Inviboo (event orchestration) and Nawafil (an Islamic spiritual PWA). We work in Indonesian and English, anchored in WIB (UTC+7), comfortable bridging into EU and APAC time zones.
 
 ---
 
 ## Verifiable proof
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Top Rated Plus" />
-  <img src="https://img.shields.io/badge/Verified%20Earnings-%2430K%2B-1f6feb?style=for-the-badge" alt="$30K+ Verified Earnings" />
-  <img src="https://img.shields.io/badge/Job%20Success%20Score-100%25-22c55e?style=for-the-badge" alt="100% JSS" />
-  <img src="https://img.shields.io/badge/Ongoing%20Engagement-18%2B%20months-483AA0?style=for-the-badge" alt="18+ months ongoing engagement" />
+  <img src="https://img.shields.io/badge/Founder%20on%20Upwork-Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Founder: Top Rated Plus on Upwork" />
+  <img src="https://img.shields.io/badge/Founder%20JSS-100%25-22c55e?style=for-the-badge" alt="Founder: 100% Job Success Score" />
+  <img src="https://img.shields.io/badge/Founder%20earned-%2430K%2B-1f6feb?style=for-the-badge" alt="Founder: $30K+ earned on Upwork" />
+  <img src="https://img.shields.io/badge/Agency%20earned-%2420K%2B-1f6feb?style=for-the-badge" alt="Agency: $20K+ earned on Upwork" />
+  <img src="https://img.shields.io/badge/Swiss%20engagement-2%2B%20years-483AA0?style=for-the-badge" alt="2+ years with a Swiss Industry 4.0 customer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clients-9%2B-0d9488?style=flat-square" />
   <img src="https://img.shields.io/badge/Industries-7-0d9488?style=flat-square" />
-  <img src="https://img.shields.io/badge/Projects%20Shipped-20%2B-0d9488?style=flat-square" />
+  <img src="https://img.shields.io/badge/Founder%20shipping%20since-2018-0d9488?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Bogor%2C%20ID-eab308?style=flat-square" />
   <img src="https://img.shields.io/badge/Timezone-WIB%20%2F%20UTC%2B7-eab308?style=flat-square" />
   <img src="https://img.shields.io/badge/Languages-ID%20%2F%20EN-eab308?style=flat-square" />
 </p>
 
+The seven industries: industrial IoT, fleet and transport, insurance tech, event tech, food and beverage, legal tech, and retail. Upwork figures are as of September 2026. The founder's freelancer account and the agency account are separate, and their earnings are never added together.
+
 Public references — independently verifiable:
 
 - Upwork agency: <https://www.upwork.com/agencies/1845689364251812329/>
-- Upwork freelancer: <https://www.upwork.com/freelancers/~01e4b82d69dc728ba3>
+- Upwork freelancer (founder): <https://www.upwork.com/freelancers/~01e4b82d69dc728ba3>
+- Founder's portfolio: <https://ahmadmuhyidin.my.id>
 
 ---
 
@@ -73,12 +76,12 @@ Lead with outcome, not technology — every brief starts with a problem statemen
 
 | Case study | Domain | Status |
 |---|---|---|
-| [**Alpamayo**](https://idinstudio.com/case-studies/alpamayo) | Swiss Industry 4.0 — edge platform, MQTT, OPC-UA, AI agent backend | 18+ months ongoing |
-| [**Efisiensi**](https://idinstudio.com/case-studies/efisiensi-fleet-ai) | AI Fleet Monitoring — CCTV passenger counting, realtime ops dashboard | Active deployment |
-| [**Futuready**](https://idinstudio.com/case-studies/futuready-insurance-platform) | Enterprise insurance platform — 15+ partner integrations across Indonesia and Thailand | Shipped, in production |
-| [**Inviboo**](https://idinstudio.com/case-studies/inviboo) | Our own wedding & family SaaS — live, with real testimonials | Active product |
+| [**Alpamayo PREKIT**](https://idinstudio.com/en/case-studies/alpamayo-prekit) | Swiss Industry 4.0 — edge data platform with an MCP-based AI assistant | Ongoing since Sep 2024 |
+| [**Alpamayo Intelligence**](https://idinstudio.com/en/case-studies/alpamayo-intelligence) | Fleet and operations platform with tool-using AI agents | Ongoing |
+| [**Efisiensi AI Fleet Monitoring**](https://idinstudio.com/en/case-studies/efisiensi-fleet-monitoring) | CCTV passenger counting with a fine-tuned YOLO26 model, realtime ops dashboard | Active deployment |
+| [**Inviboo**](https://idinstudio.com/en/case-studies/inviboo) | Our own event orchestration SaaS — weddings, birthdays, aqiqah and more | Live with real users |
 
-Other reference work spans queue/POS systems for F&B, dispute resolution platforms for a Colombian bank, and ERP/POS modules for FMCG operators.
+Other work: [bus ticketing](https://idinstudio.com/en/case-studies/efisiensi-ticketing) for the same operator, [QR menu, POS, catering and an operator dashboard](https://idinstudio.com/en/case-studies/inkanteen) for canteens, [online dispute resolution](https://idinstudio.com/en/case-studies/redek) in Colombia, retail and FMCG ERP/POS ([Gromura](https://idinstudio.com/en/case-studies/gromura), Inovata), and [Nawafil](https://idinstudio.com/en/case-studies/nawafil), our Islamic spiritual PWA. All case studies: <https://idinstudio.com/en/case-studies>
 
 ---
 
@@ -86,7 +89,7 @@ Other reference work spans queue/POS systems for F&B, dispute resolution platfor
 
 We maintain a brand-preset showcase that lets prospective clients preview our products in their own visual identity — three themes per product, all running on a single codebase.
 
-- **Inviboo** — Wedding & family SaaS (3 brand themes)
+- **Inviboo** — Event orchestration SaaS (3 brand themes)
 - **FleetCam** — Fleet intelligence dashboard (3 brand themes)
 - **WarehouseCam** — Warehouse intelligence dashboard (3 brand themes)
 
@@ -162,9 +165,9 @@ Full engagement detail: <https://idinstudio.com/how-we-work>
 ## Where we work
 
 - Anchored in **Bogor, Indonesia** — WIB (UTC+7)
-- Active in **Europe** through an 18+ month Swiss engagement
+- Active in **Europe** through a 2+ year Swiss engagement (since September 2024)
 - Open to **APAC** and **Americas** time-zone bridges
-- Fluent in **Indonesian** and **English**
+- Working in **Indonesian** (native) and **English** (professional working)
 
 ---
 
@@ -186,7 +189,7 @@ Response window: usually within 1 business day on Jakarta time. Start a brief at
 <details>
 <summary><b>What does "founder-led" actually mean?</b></summary>
 
-It means Idin personally owns architecture decisions and writes the critical code on every engagement. We do not subcontract the hard parts. The trade-off is bandwidth — we take a small number of clients at a time, on purpose. If you need a 30-person team next Monday, we are not it. If you want a senior engineer who treats your product like a co-founder would, that is the deal.
+It means Ahmad personally owns architecture decisions and writes the critical code on every engagement. We do not subcontract the hard parts. The trade-off is bandwidth — we take a small number of clients at a time, on purpose. If you need a 30-person team next Monday, we are not it. If you want a senior engineer who treats your product like a co-founder would, that is the deal.
 </details>
 
 <details>
