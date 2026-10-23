@@ -64,7 +64,7 @@ Public references — independently verifiable:
 |---|---|---|
 | **SaaS & Web Platforms** | Next.js 15, Vue/Nuxt 4, Go (Chi), Python (FastAPI, Django), PostgreSQL | Production builds from $5K |
 | **AI Integration & Agents** | Claude, Gemini, MCP, RAG, agentic workflows, LangChain | Pilots from $3K |
-| **Mobile Apps** | React Native, Flutter | Cross-platform from MVP to v1 |
+| **Mobile Apps** | Flutter | Cross-platform from MVP to v1 |
 | **System Modernization** | Legacy → modern stack, incremental migration, strangler-fig | Phased, no big-bang rewrites |
 | **Technical Consulting** | Architecture review, performance, security audits | 1–3 week sprints |
 
