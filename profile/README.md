@@ -26,7 +26,7 @@
 
 We are deliberately small. The founder owns the architecture and the critical code, and the team is senior enough to ship to production from the first commit. Every project runs on a structured agentic AI workflow built around layered skills, project rules and repeatable execution loops. That workflow is how each project is scoped, built and verified.
 
-Our longest engagement is 2+ years of continuous delivery (since September 2024) with a Swiss Industry 4.0 customer. We also build AI fleet monitoring and ticketing for an Indonesian intercity bus operator, and two products of our own: Inviboo (event orchestration) and Nawafil (an Islamic spiritual PWA). We work in Indonesian and English, anchored in WIB (UTC+7), comfortable bridging into EU and APAC time zones.
+Our longest engagement is 2+ years of continuous delivery (since September 2024) with a Swiss Industry 4.0 customer. For an Indonesian intercity bus operator we delivered the passenger ticketing app frontend and now run AI fleet monitoring. We also build two products of our own: Inviboo (event orchestration) and Nawafil (an Islamic spiritual PWA). We work in Indonesian and English, anchored in WIB (UTC+7), comfortable bridging into EU and APAC time zones.
 
 ---
 
@@ -81,7 +81,7 @@ Every brief starts with the outcome: a problem statement, an explicit Definition
 | [**Efisiensi AI Fleet Monitoring**](https://idinstudio.com/en/case-studies/efisiensi-fleet-monitoring) | CCTV passenger counting with a fine-tuned YOLO26 model, realtime ops dashboard | Active deployment |
 | [**Inviboo**](https://idinstudio.com/en/case-studies/inviboo) | Our own event orchestration SaaS for weddings, birthdays, aqiqah and more | Live with real users |
 
-Other work: [bus ticketing](https://idinstudio.com/en/case-studies/efisiensi-ticketing) for the same operator, [QR menu, POS, catering and an operator dashboard](https://idinstudio.com/en/case-studies/inkanteen) for canteens, [online dispute resolution](https://idinstudio.com/en/case-studies/redek) in Colombia, retail and FMCG ERP/POS ([Gromura](https://idinstudio.com/en/case-studies/gromura), Inovata), and [Nawafil](https://idinstudio.com/en/case-studies/nawafil), our Islamic spiritual PWA. All case studies: <https://idinstudio.com/en/case-studies>
+Other studio work: the [passenger ticketing app](https://idinstudio.com/en/case-studies/efisiensi-ticketing) for the same operator and [Nawafil](https://idinstudio.com/en/case-studies/nawafil), our Islamic spiritual PWA. Before the studio, Ahmad built [QR menu, POS, catering and operator dashboard apps](https://idinstudio.com/en/case-studies/inkanteen) for canteens, worked on [online dispute resolution](https://idinstudio.com/en/case-studies/redek) in Colombia, and built retail and FMCG systems ([Gromura](https://idinstudio.com/en/case-studies/gromura), where he was tech co-founder, and Inovata). All case studies: <https://idinstudio.com/en/case-studies>
 
 ---
 
