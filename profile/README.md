@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:483AA0,100:0d9488&height=220&section=header&text=Idin%20Studio&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=Software%20yang%20Benar-Benar%20Rilis&descSize=18&descAlignY=56" alt="Idin Studio — Software yang Benar-Benar Rilis" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:483AA0,100:0d9488&height=220&section=header&text=Idin%20Studio&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=Software%20yang%20Benar-Benar%20Rilis&descSize=18&descAlignY=56" alt="Idin Studio: Software yang Benar-Benar Rilis" />
 </p>
 
 <!-- Rotating taglines -->
@@ -15,18 +15,18 @@
   <a href="https://idinstudio.com"><img src="https://img.shields.io/badge/idinstudio.com-483AA0?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
   <a href="mailto:hello@idinstudio.com"><img src="https://img.shields.io/badge/hello@idinstudio.com-0d9488?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://www.upwork.com/agencies/1845689364251812329/"><img src="https://img.shields.io/badge/Upwork%20Agency-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Agency" /></a>
-  <a href="https://www.upwork.com/freelancers/~01e4b82d69dc728ba3"><img src="https://img.shields.io/badge/Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Top Rated Plus" /></a>
+  <a href="https://www.upwork.com/freelancers/~01e4b82d69dc728ba3"><img src="https://img.shields.io/badge/Founder-Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Founder: Top Rated Plus on Upwork" /></a>
 </p>
 
 ---
 
 ## Who we are
 
-**Idin Studio** is a software engineering agency from Bogor, Indonesia — founder-led by **Ahmad Muhyidin**. We design, build, and ship production systems for startups and SMBs that want a reliable technical partner, not a body shop.
+**Idin Studio** is a founder-led software engineering agency from Bogor, Indonesia, run by **Ahmad Muhyidin**. We design, build and ship production systems for startups and SMBs that want a dependable technical partner.
 
-We are deliberately boutique. Small enough that the founder owns architecture and critical code — senior enough to ship to production on the first commit. Most of our work runs on a structured agentic AI workflow built around layered skills, project rules, and repeatable execution loops. That is not a buzzword for us — it is how every project is scoped, built, and verified.
+We are deliberately small. The founder owns the architecture and the critical code, and the team is senior enough to ship to production from the first commit. Every project runs on a structured agentic AI workflow built around layered skills, project rules and repeatable execution loops. That workflow is how each project is scoped, built and verified.
 
-Our longest engagement is 2+ years of continuous delivery (since September 2024) with a Swiss Industry 4.0 customer. We also build AI fleet monitoring and ticketing for an Indonesian intercity bus operator, and two products of our own: Inviboo (event orchestration) and Nawafil (an Islamic spiritual PWA). We work in Indonesian and English, anchored in WIB (UTC+7), comfortable bridging into EU and APAC time zones.
+Our longest engagement is with a Swiss Industry 4.0 customer: Ahmad has worked with them since September 2024, through the studio since July 2025. For an Indonesian intercity bus operator we delivered the passenger ticketing app frontend and now run AI fleet monitoring. We also build two products of our own: Inviboo (event orchestration) and Nawafil (an Islamic spiritual PWA). We work in Indonesian and English, anchored in WIB (UTC+7), comfortable bridging into EU and APAC time zones.
 
 ---
 
@@ -50,7 +50,7 @@ Our longest engagement is 2+ years of continuous delivery (since September 2024)
 
 The seven industries: industrial IoT, fleet and transport, insurance tech, event tech, food and beverage, legal tech, and retail. Upwork figures are as of September 2026. The founder's freelancer account and the agency account are separate, and their earnings are never added together.
 
-Public references — independently verifiable:
+Public references you can check:
 
 - Upwork agency: <https://www.upwork.com/agencies/1845689364251812329/>
 - Upwork freelancer (founder): <https://www.upwork.com/freelancers/~01e4b82d69dc728ba3>
@@ -64,11 +64,11 @@ Public references — independently verifiable:
 |---|---|---|
 | **SaaS & Web Platforms** | Next.js 15, Vue/Nuxt 4, Go (Chi), Python (FastAPI, Django), PostgreSQL | Production builds from $5K |
 | **AI Integration & Agents** | Claude, Gemini, MCP, RAG, agentic workflows, LangChain | Pilots from $3K |
-| **Mobile Apps** | React Native, Flutter | Cross-platform from MVP to v1 |
+| **Mobile Apps** | Flutter | Cross-platform from MVP to v1 |
 | **System Modernization** | Legacy → modern stack, incremental migration, strangler-fig | Phased, no big-bang rewrites |
 | **Technical Consulting** | Architecture review, performance, security audits | 1–3 week sprints |
 
-Lead with outcome, not technology — every brief starts with a problem statement, an explicit Definition of Done, and a delivery plan that fits the budget.
+Every brief starts with the outcome: a problem statement, an explicit Definition of Done and a delivery plan that fits the budget.
 
 ---
 
@@ -76,22 +76,22 @@ Lead with outcome, not technology — every brief starts with a problem statemen
 
 | Case study | Domain | Status |
 |---|---|---|
-| [**Alpamayo PREKIT**](https://idinstudio.com/en/case-studies/alpamayo-prekit) | Swiss Industry 4.0 — edge data platform with an MCP-based AI assistant | Ongoing since Sep 2024 |
-| [**Alpamayo Intelligence**](https://idinstudio.com/en/case-studies/alpamayo-intelligence) | Fleet and operations platform with tool-using AI agents | Ongoing |
-| [**Efisiensi AI Fleet Monitoring**](https://idinstudio.com/en/case-studies/efisiensi-fleet-monitoring) | CCTV passenger counting with a fine-tuned YOLO26 model, realtime ops dashboard | Active deployment |
-| [**Inviboo**](https://idinstudio.com/en/case-studies/inviboo) | Our own event orchestration SaaS — weddings, birthdays, aqiqah and more | Live with real users |
+| [**Alpamayo PREKIT**](https://idinstudio.com/en/case-studies/alpamayo-prekit) | Swiss Industry 4.0: edge data platform with an MCP-based AI assistant | Ongoing since Sep 2024 |
+| [**Alpamayo Intelligence**](https://idinstudio.com/en/case-studies/alpamayo-intelligence) | Fleet and operations platform: deployment-drift engine, Kanban task board, resource library | Ongoing |
+| [**Efisiensi AI Fleet Monitoring**](https://idinstudio.com/en/case-studies/efisiensi-fleet-monitoring) | CCTV passenger counting with a fine-tuned YOLO26 model, realtime ops dashboard | In production |
+| [**Inviboo**](https://idinstudio.com/en/case-studies/inviboo) | Our own event orchestration SaaS for weddings, birthdays, aqiqah and more | Live with real users |
 
-Other work: [bus ticketing](https://idinstudio.com/en/case-studies/efisiensi-ticketing) for the same operator, [QR menu, POS, catering and an operator dashboard](https://idinstudio.com/en/case-studies/inkanteen) for canteens, [online dispute resolution](https://idinstudio.com/en/case-studies/redek) in Colombia, retail and FMCG ERP/POS ([Gromura](https://idinstudio.com/en/case-studies/gromura), Inovata), and [Nawafil](https://idinstudio.com/en/case-studies/nawafil), our Islamic spiritual PWA. All case studies: <https://idinstudio.com/en/case-studies>
+Other studio work: the [passenger ticketing app](https://idinstudio.com/en/case-studies/efisiensi-ticketing) for the same operator and [Nawafil](https://idinstudio.com/en/case-studies/nawafil), our Islamic spiritual PWA. Before the studio, Ahmad built the [QR menu frontend, the POS backend, and the catering and operator dashboard apps full stack](https://idinstudio.com/en/case-studies/inkanteen) for canteens, worked on [online dispute resolution](https://idinstudio.com/en/case-studies/redek) in Colombia, and built retail and FMCG systems ([Gromura](https://idinstudio.com/en/case-studies/gromura), where he was tech co-founder, and Inovata). All case studies: <https://idinstudio.com/en/case-studies>
 
 ---
 
 ## Live product showcase
 
-We maintain a brand-preset showcase that lets prospective clients preview our products in their own visual identity — three themes per product, all running on a single codebase.
+We maintain a brand-preset showcase that lets prospective clients preview our products in their own visual identity: three themes per product, all running on a single codebase.
 
-- **Inviboo** — Event orchestration SaaS (3 brand themes)
-- **FleetCam** — Fleet intelligence dashboard (3 brand themes)
-- **WarehouseCam** — Warehouse intelligence dashboard (3 brand themes)
+- **Inviboo**: event orchestration SaaS (3 brand themes)
+- **FleetCam**: fleet intelligence dashboard (3 brand themes)
+- **WarehouseCam**: warehouse intelligence dashboard (3 brand themes)
 
 Live preview: <https://idinstudio.com/showcase>
 
@@ -164,8 +164,8 @@ Full engagement detail: <https://idinstudio.com/how-we-work>
 
 ## Where we work
 
-- Anchored in **Bogor, Indonesia** — WIB (UTC+7)
-- Active in **Europe** through a 2+ year Swiss engagement (since September 2024)
+- Anchored in **Bogor, Indonesia** (WIB, UTC+7)
+- Active in **Europe** through a Swiss engagement (Ahmad since September 2024, through the studio since July 2025)
 - Open to **APAC** and **Americas** time-zone bridges
 - Working in **Indonesian** (native) and **English** (professional working)
 
@@ -180,7 +180,7 @@ Full engagement detail: <https://idinstudio.com/how-we-work>
   <a href="https://www.upwork.com/freelancers/~01e4b82d69dc728ba3"><img src="https://img.shields.io/badge/Upwork%20Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
-Response window: usually within 1 business day on Jakarta time. Start a brief at <https://idinstudio.com> or just send a paragraph — we will tell you honestly if we are the right fit.
+Response window: usually within 1 business day on Jakarta time. Start a brief at <https://idinstudio.com> or just send a paragraph. We will tell you honestly if we are the right fit.
 
 ---
 
@@ -189,19 +189,19 @@ Response window: usually within 1 business day on Jakarta time. Start a brief at
 <details>
 <summary><b>What does "founder-led" actually mean?</b></summary>
 
-It means Ahmad personally owns architecture decisions and writes the critical code on every engagement. We do not subcontract the hard parts. The trade-off is bandwidth — we take a small number of clients at a time, on purpose. If you need a 30-person team next Monday, we are not it. If you want a senior engineer who treats your product like a co-founder would, that is the deal.
+It means Ahmad personally owns architecture decisions and writes the critical code on every engagement. We do not subcontract the hard parts. The trade-off is bandwidth: we take a small number of clients at a time, on purpose. If you need a 30-person team next Monday, we are not it. If you want a senior engineer who treats your product like a co-founder would, that is the deal.
 </details>
 
 <details>
 <summary><b>Do you take long-term retainers?</b></summary>
 
-Yes. Our default retainer is 3+ months, billed monthly, with a clear scope per cycle. It is the model we use with our Swiss client and the one we recommend for any product that needs more than a single MVP push. We treat the slot like a founding-engineer hire — same continuity, no payroll overhead.
+Yes. Our default retainer is 3+ months, billed monthly, with a clear scope per cycle. It is the model we use with our Swiss client and the one we recommend for any product that needs more than a single MVP push. We treat the slot like a founding-engineer hire: the same continuity, without the payroll overhead.
 </details>
 
 <details>
 <summary><b>How do you use AI in your delivery?</b></summary>
 
-Every project runs on a layered system of skills, project-specific rules, and agentic workflows — Claude, Gemini, and MCP-based tooling are the daily driver, not a marketing label. The output is still production code reviewed and shipped by humans. The win is consistency and speed across the boring parts of the SDLC.
+Every project runs on a layered system of skills, project-specific rules and agentic workflows. Claude, Gemini and MCP-based tooling are part of the daily work. The output is still production code that people review and ship. The gain is consistency and speed in the routine parts of the SDLC.
 </details>
 
 <details>
@@ -213,7 +213,7 @@ Yes, mutual NDA is standard before scoping. We already operate under NDA on mult
 <details>
 <summary><b>What if my project is outside your stack?</b></summary>
 
-We will tell you. If the right answer is a different stack or a different vendor, we say so on the discovery call — it is a faster outcome for both sides than 6 weeks of forced fit.
+We will tell you. If the right answer is a different stack or a different vendor, we say so on the discovery call. That is faster for both sides than six weeks of forced fit.
 </details>
 
 ---
@@ -223,5 +223,5 @@ We will tell you. If the right answer is a different stack or a different vendor
 </p>
 
 <p align="center">
-  <sub>Idin Studio — Bogor, Indonesia · <a href="https://idinstudio.com">idinstudio.com</a> · <a href="mailto:hello@idinstudio.com">hello@idinstudio.com</a></sub>
+  <sub>Idin Studio · Bogor, Indonesia · <a href="https://idinstudio.com">idinstudio.com</a> · <a href="mailto:hello@idinstudio.com">hello@idinstudio.com</a></sub>
 </p>
