@@ -80,7 +80,7 @@ Every brief starts with the outcome: a problem statement, an explicit Definition
 | [**Alpamayo PREKIT**](https://idinstudio.com/en/case-studies/alpamayo-prekit) | Swiss Industry 4.0: edge data platform with an MCP-based AI assistant | Ongoing since Sep 2024 |
 | [**Alpamayo Intelligence**](https://idinstudio.com/en/case-studies/alpamayo-intelligence) | Fleet and operations platform: deployment-drift engine, Kanban task board, resource library | Ongoing |
 | [**Efisiensi AI Fleet Monitoring**](https://idinstudio.com/en/case-studies/efisiensi-fleet-monitoring) | CCTV passenger counting with a fine-tuned YOLO26 model, realtime ops dashboard | In production |
-| [**Inviboo**](https://idinstudio.com/en/case-studies/inviboo) | Our own event orchestration SaaS for weddings, birthdays, aqiqah and more | Live with real users |
+| [**Inviboo**](https://idinstudio.com/en/case-studies/inviboo) | Our own event orchestration SaaS for every kind of event | Live with real users |
 
 Other studio work: the [passenger ticketing app](https://idinstudio.com/en/case-studies/efisiensi-ticketing) for the same operator and [Nawafil](https://idinstudio.com/en/case-studies/nawafil), our Islamic spiritual PWA. Before the studio, Ahmad built the [QR menu frontend, the POS backend, and the catering and operator dashboard apps full stack](https://idinstudio.com/en/case-studies/inkanteen) for canteens, built an [online dispute-resolution platform](https://idinstudio.com/en/case-studies/redek) end to end for Colombia, the operations dashboard of [Gromura](https://idinstudio.com/en/case-studies/gromura), an F&B distribution startup where he was tech co-founder, and the Mira Retail web app for Inovata. All case studies: <https://idinstudio.com/en/case-studies>
 
