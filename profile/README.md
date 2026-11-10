@@ -6,7 +6,7 @@
 <!-- Rotating taglines -->
 <p align="center">
   <a href="https://idinstudio.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=483AA0&center=true&vCenter=true&width=720&lines=We+connect+AI+agents+to+your+product%2C+safely;AI+integration+studio%2C+founder-led;MCP+servers%2C+AI+assistants%2C+vision+AI;Built+in+Bogor.+Shipping+worldwide." alt="Idin Studio rotating taglines" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=483AA0&center=true&vCenter=true&width=720&lines=We+connect+AI+agents+to+your+product%2C+safely;AI+integration+studio%2C+founder-led;MCP+servers%2C+AI+assistants%2C+vision+AI" alt="Idin Studio rotating taglines" />
   </a>
 </p>
 
@@ -24,9 +24,9 @@
 
 **Idin Studio** is a founder-led AI integration studio from Bogor, Indonesia, run by **Ahmad Muhyidin**. We connect AI agents to your product safely, through MCP servers and AI assistants, and build the SaaS and web platforms around them.
 
-We are deliberately small. The founder designs the system, directs AI coding agents under rules and tests he writes, and owns the architecture and the quality. Every project runs on a structured agentic AI workflow built around layered skills, project rules and repeatable execution loops. That workflow is how each project is scoped, built and verified.
+We are a two-person studio led by Ahmad: he leads engineering and a UI/UX designer completes the team. Ahmad designs the system, directs AI coding agents under rules and tests he writes, and reviews every change before it ships.
 
-Our longest engagement is with a Swiss Industry 4.0 company: Ahmad has freelanced for it via Upwork since September 2024, billed through the studio since July 2025. For an Indonesian intercity bus operator we delivered the passenger ticketing app frontend and now run AI fleet monitoring. We also build two products of our own: Inviboo (event orchestration) and Nawafil (an Islamic spiritual PWA). We work in Indonesian and English, anchored in WIB (UTC+7), comfortable bridging into EU and APAC time zones.
+Our longest engagement is with a Swiss industrial IoT company, where Ahmad has freelanced inside the engineering team via Upwork since September 2024. For an Indonesian intercity bus operator we delivered the passenger ticketing app frontend, then a fleet AI system that counts passengers from bus CCTV and sends trips with more passengers than tickets sold to auditors. We also build two products of our own, Inviboo (event SaaS) and Nawafil (an Islamic spiritual PWA). We work in Indonesian and English from WIB (UTC+7), and our hours overlap Australian business hours, European mornings and US East Coast evenings.
 
 ---
 
@@ -37,7 +37,7 @@ Our longest engagement is with a Swiss Industry 4.0 company: Ahmad has freelance
   <img src="https://img.shields.io/badge/Founder%20JSS-100%25-22c55e?style=for-the-badge" alt="Founder: 100% Job Success Score" />
   <img src="https://img.shields.io/badge/Founder%20earned-%2430K%2B-1f6feb?style=for-the-badge" alt="Founder: $30K+ earned on Upwork" />
   <img src="https://img.shields.io/badge/Agency%20earned-%2420K%2B-1f6feb?style=for-the-badge" alt="Agency: $20K+ earned on Upwork" />
-  <img src="https://img.shields.io/badge/Swiss%20engagement-2%2B%20years-483AA0?style=for-the-badge" alt="2+ years with a Swiss Industry 4.0 customer" />
+  <img src="https://img.shields.io/badge/Swiss%20engagement-2%2B%20years-483AA0?style=for-the-badge" alt="2+ years with a Swiss industrial IoT customer" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Our longest engagement is with a Swiss Industry 4.0 company: Ahmad has freelance
   <img src="https://img.shields.io/badge/Languages-ID%20%2F%20EN-eab308?style=flat-square" />
 </p>
 
-The seven industries: industrial IoT, fleet and transport, insurance tech, event tech, food and beverage, legal tech, and retail. Upwork figures are as of September 2026. The founder's freelancer account and the agency account are separate, and their earnings are never added together.
+The seven industries: industrial IoT and manufacturing, fleet and transport, insurance tech, event tech, food and beverage, legal tech, and retail. The founder's Upwork figures were read in November 2026 and the agency's in September 2026. The founder's freelancer account and the agency account are separate, and their earnings are never added together.
 
 Public references you can check:
 
@@ -62,14 +62,12 @@ Public references you can check:
 
 | Service | Stack | Typical engagement |
 |---|---|---|
-| **AI Integration & Agents** | MCP (FastMCP, MCP Go SDK), LLM tool calling, OAuth 2.1 on Keycloak, YOLO, OpenCV, Label Studio | From $3K |
-| **SaaS & Web Platforms** | Next.js 15, Vue 3/Nuxt, Go (Gin, Chi), Python (FastAPI, Django), PostgreSQL | From $5K |
-| **System Modernization** | Legacy → modern stack, incremental migration, strangler-fig | From $10K, phased, no big-bang rewrites |
-| **Technical Consulting** | Architecture review, performance, security audits | From $1K, 1 to 3 week sprints |
+| **AI Integration & Agents** | MCP (FastMCP, MCP Go SDK), LLM tool calling, OAuth 2.1 on Keycloak, YOLO, OpenCV, Label Studio | From $2,999 |
+| **SaaS & Web Platforms** | Next.js 15, Vue 3/Nuxt, Go (Gin, Chi), Python (FastAPI, Django), PostgreSQL | From $4,999 |
+| **System Modernization** | Legacy to modern stack, incremental migration, strangler-fig | From $9,999, phased, no big-bang rewrites |
+| **Technical Consulting** | Architecture review, performance, security audits | From $999, 1 to 3 week sprints |
 
-We also develop with Flutter.
-
-Every brief starts with the outcome: a problem statement, an explicit Definition of Done and a delivery plan that fits the budget.
+We agree the scope and what "done" means before we build.
 
 ---
 
@@ -77,20 +75,28 @@ Every brief starts with the outcome: a problem statement, an explicit Definition
 
 | Case study | Domain | Status |
 |---|---|---|
-| [**Alpamayo PREKIT**](https://idinstudio.com/en/case-studies/alpamayo-prekit) | Swiss Industry 4.0: edge data platform with an MCP-based AI assistant | Ongoing since Sep 2024 |
-| [**Alpamayo Intelligence**](https://idinstudio.com/en/case-studies/alpamayo-intelligence) | Fleet and operations platform: deployment-drift engine, Kanban task board, resource library | Ongoing |
+| [**Alpamayo PREKIT**](https://idinstudio.com/en/case-studies/alpamayo-prekit) | Swiss industrial data platform: MCP server and AI assistant, built from the first version | Ongoing |
+| [**Alpamayo Intelligence**](https://idinstudio.com/en/case-studies/alpamayo-intelligence) | Device fleet platform: UI/UX overhaul, task board, resource library and deployment drift | Ongoing |
 | [**Efisiensi AI Fleet Monitoring**](https://idinstudio.com/en/case-studies/efisiensi-fleet-monitoring) | CCTV passenger counting with a fine-tuned YOLO26 model, realtime ops dashboard | In production |
 | [**Inviboo**](https://idinstudio.com/en/case-studies/inviboo) | Our own event orchestration SaaS for every kind of event | Live with real users |
 
-Other studio work: the [passenger ticketing app](https://idinstudio.com/en/case-studies/efisiensi-ticketing) for the same operator and [Nawafil](https://idinstudio.com/en/case-studies/nawafil), our Islamic spiritual PWA. Before the studio, Ahmad built the [QR menu frontend, the POS backend, and the catering and operator dashboard apps full stack](https://idinstudio.com/en/case-studies/inkanteen) for canteens, built an [online dispute-resolution platform](https://idinstudio.com/en/case-studies/redek) end to end for Colombia, the operations dashboard of [Gromura](https://idinstudio.com/en/case-studies/gromura), an F&B distribution startup where he was tech co-founder, and the Mira Retail web app for Inovata. All case studies: <https://idinstudio.com/en/case-studies>
+Other studio work: the [passenger ticketing app](https://idinstudio.com/en/case-studies/efisiensi-ticketing) for the same operator and [Nawafil](https://idinstudio.com/en/case-studies/nawafil), our Islamic spiritual PWA. Before the studio, Ahmad built:
+
+- InKanteen's [QR menu frontend, POS backend, and catering and operator dashboard apps](https://idinstudio.com/en/case-studies/inkanteen)
+- [Redek](https://idinstudio.com/en/case-studies/redek), an online dispute-resolution platform for Colombia, end to end
+- the operations platform of [Gromura](https://idinstudio.com/en/case-studies/gromura), an F&B distribution startup where he was tech co-founder
+- the Mira Retail web app for Inovata
+
+All case studies: <https://idinstudio.com/en/case-studies>
 
 ---
 
-## Live product showcase
+## Open source
 
-We maintain a brand-preset showcase that lets prospective clients preview a product in their own visual identity, on a single codebase. Inviboo, our event orchestration SaaS, runs in three brand themes.
+The founder's MCP tools, both MIT licensed:
 
-Live preview: <https://idinstudio.com/showcase>
+- [mcp-stdio-mux](https://github.com/techidin/mcp-stdio-mux) runs one shared process per stdio MCP server across agent sessions, apps and profiles. It is on PyPI.
+- [mcp-guarded-server](https://github.com/techidin/mcp-guarded-server) is a reference MCP server with sign-in before any tool, tenant scoping, confirmed writes and an audit log.
 
 ---
 
@@ -147,19 +153,19 @@ Live preview: <https://idinstudio.com/showcase>
 
 | Model | Range | Window | Best for |
 |---|---|---|---|
-| **Fixed-Scope MVP** | $5K to $25K | 4 to 8 weeks | Validated idea, clear scope, single milestone |
-| **Embedded Retainer** | $3K to $10K/month | 3+ months | Ongoing product evolution, founding-engineer slot |
-| **Technical Advisory** | $1K to $5K | 1 to 3 weeks | Architecture review, audit, second opinion |
+| **Fixed-Scope MVP** | $4,999 to $24,999 | 4 to 8 weeks | Validated idea, clear scope, single milestone |
+| **Embedded Retainer** | $2,999 to $9,999/month | 3+ months | Ongoing product evolution, founding-engineer slot |
+| **Technical Advisory** | $999 to $4,999 | 1 to 3 weeks | Architecture review, audit, second opinion |
 
-For a live app that needs upkeep, the maintenance retainer covers 20 dev hours a month from $450 (<https://idinstudio.com/en/packages>). Full engagement detail: <https://idinstudio.com/how-we-work>
+Fixed packages: the MVP SaaS package starts at $4,399 for 6 weeks, and for a live app that needs upkeep, the maintenance retainer covers 20 dev hours a month from $449 (<https://idinstudio.com/en/packages>). Full engagement detail: <https://idinstudio.com/how-we-work>
 
 ---
 
 ## Where we work
 
 - Anchored in **Bogor, Indonesia** (WIB, UTC+7)
-- Active in **Europe** through a Swiss engagement (Ahmad as a freelancer via Upwork since September 2024, billed through the studio since July 2025)
-- Open to **APAC** and **Americas** time-zone bridges
+- Active in **Europe** through a Swiss engagement (Ahmad as a freelancer via Upwork since September 2024)
+- Hours that overlap **Australia**, **European mornings** and **US East Coast evenings**
 - Working in **Indonesian** (native) and **English** (professional working)
 
 ---
@@ -173,7 +179,7 @@ For a live app that needs upkeep, the maintenance retainer covers 20 dev hours a
   <a href="https://www.upwork.com/freelancers/~01e4b82d69dc728ba3"><img src="https://img.shields.io/badge/Upwork%20Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
-Response window: usually within 1 business day on Jakarta time. Start a brief at <https://idinstudio.com> or just send a paragraph. We will tell you honestly if we are the right fit.
+We usually reply within one working day, Jakarta time. Start a brief at <https://idinstudio.com> or send a paragraph, and we will set up a free 30-minute call. If we are not the right fit, we will say so.
 
 ---
 
@@ -182,31 +188,31 @@ Response window: usually within 1 business day on Jakarta time. Start a brief at
 <details>
 <summary><b>What does "founder-led" actually mean?</b></summary>
 
-It means Ahmad designs the system, directs AI coding agents under rules and tests he writes, and owns the result on every engagement. We do not subcontract the hard parts. The trade-off is bandwidth: we take a small number of clients at a time, on purpose. If you need a 30-person team next Monday, we are not it. If you want a senior engineer who treats your product like a co-founder would, that is the deal.
+Ahmad designs the system, directs AI coding agents under rules and tests he writes, and reviews every change on every engagement. You work with him directly, so we take a few clients at a time.
 </details>
 
 <details>
 <summary><b>Do you take long-term retainers?</b></summary>
 
-Yes. Our default retainer is 3+ months, billed monthly, with a clear scope per cycle. We recommend it for any product that needs more than a single MVP push. We treat the slot like a founding-engineer hire: the same continuity, without the payroll overhead.
+Yes. Our default retainer is 3+ months, billed monthly, with a clear scope per cycle. We recommend it for any product that needs more than a single MVP push.
 </details>
 
 <details>
 <summary><b>How do you use AI in your delivery?</b></summary>
 
-Every project runs on a layered system of skills, project-specific rules and agentic workflows. Claude Code and MCP-based tooling are part of the daily work: Ahmad directs AI coding agents under rules and tests he writes, then reviews what ships. The gain is consistency and speed in the routine parts of the SDLC.
+Ahmad directs AI coding agents such as Claude Code under project rules and tests he writes, and reviews every change before it ships. The gain is speed and consistency in routine work.
 </details>
 
 <details>
 <summary><b>Will you sign an NDA?</b></summary>
 
-Yes, mutual NDA is standard before scoping. We already operate under NDA on multiple industrial customer programs through our Swiss engagement, so the workflow is well-rehearsed.
+Yes. A mutual NDA before scoping is standard, and a DPA is available on request. We already work under NDA on multiple industrial programs.
 </details>
 
 <details>
 <summary><b>What if my project is outside your stack?</b></summary>
 
-We will tell you. If the right answer is a different stack or a different vendor, we say so on the discovery call. That is faster for both sides than six weeks of forced fit.
+We will tell you. If the right answer is a different stack or a different vendor, we say so on the discovery call.
 </details>
 
 ---
