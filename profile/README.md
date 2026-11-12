@@ -62,10 +62,12 @@ Public references you can check:
 
 | Service | Stack | Typical engagement |
 |---|---|---|
-| **AI Integration & Agents** | MCP (FastMCP, MCP Go SDK), LLM tool calling, OAuth 2.1 on Keycloak, YOLO, OpenCV, Label Studio | From $2,999 |
-| **SaaS & Web Platforms** | Next.js 15, Vue 3/Nuxt, Go (Gin, Chi), Python (FastAPI, Django), PostgreSQL | From $4,999 |
+| **AI Integration & Agents** | MCP (FastMCP, MCP Go SDK), LLM tool calling, OAuth 2.1 on Keycloak, YOLO, OpenCV, Label Studio | From $199 |
+| **SaaS & Web Platforms** | Next.js 15, Vue 3/Nuxt, Go (Gin, Chi), Python (FastAPI, Django), PostgreSQL | From $4,399 |
 | **System Modernization** | Legacy to modern stack, incremental migration, strangler-fig | From $9,999, phased, no big-bang rewrites |
 | **Technical Consulting** | Architecture review, performance, security audits | From $999, 1 to 3 week sprints |
+
+AI packages: MCP Server from $299, Secure AI Assistant from $349, AI Workflow with Approval from $249, and Secure Fix for an AI-Built App from $199 (<https://idinstudio.com/en/packages>).
 
 We agree the scope and what "done" means before we build.
 
@@ -153,7 +155,7 @@ The founder's MCP tools, both MIT licensed:
 
 | Model | Range | Window | Best for |
 |---|---|---|---|
-| **Fixed-Scope MVP** | $4,999 to $24,999 | 4 to 8 weeks | Validated idea, clear scope, single milestone |
+| **Fixed-Scope MVP** | $4,399 to $24,999 | 4 to 8 weeks | Validated idea, clear scope, single milestone |
 | **Embedded Retainer** | $2,999 to $9,999/month | 3+ months | Ongoing product evolution, founding-engineer slot |
 | **Technical Advisory** | $999 to $4,999 | 1 to 3 weeks | Architecture review, audit, second opinion |
 
