@@ -1,18 +1,18 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:483AA0,100:0d9488&height=220&section=header&text=Idin%20Studio&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=AI%20Integration%20Studio&descSize=18&descAlignY=56" alt="Idin Studio: AI Integration Studio" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:502FD3,100:0d9488&height=220&section=header&text=Idin%20Studio&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=AI%20Integration%20Studio&descSize=18&descAlignY=56" alt="Idin Studio: AI Integration Studio" />
 </p>
 
 <!-- Rotating taglines -->
 <p align="center">
   <a href="https://idinstudio.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=483AA0&center=true&vCenter=true&width=720&lines=We+connect+AI+agents+to+your+product%2C+safely;AI+integration+studio%2C+founder-led;MCP+servers%2C+AI+assistants%2C+vision+AI" alt="Idin Studio rotating taglines" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=502FD3&center=true&vCenter=true&width=720&lines=We+connect+AI+agents+to+your+product%2C+safely;AI+integration+studio%2C+founder-led;MCP+servers%2C+AI+assistants%2C+vision+AI" alt="Idin Studio rotating taglines" />
   </a>
 </p>
 
 <!-- Quick links -->
 <p align="center">
-  <a href="https://idinstudio.com"><img src="https://img.shields.io/badge/idinstudio.com-483AA0?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://idinstudio.com"><img src="https://img.shields.io/badge/idinstudio.com-502FD3?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
   <a href="mailto:hello@idinstudio.com"><img src="https://img.shields.io/badge/hello@idinstudio.com-0d9488?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://www.upwork.com/agencies/1845689364251812329/"><img src="https://img.shields.io/badge/Upwork%20Agency-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Agency" /></a>
   <a href="https://www.upwork.com/freelancers/~01e4b82d69dc728ba3"><img src="https://img.shields.io/badge/Founder-Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Founder: Top Rated Plus on Upwork" /></a>
@@ -37,7 +37,7 @@ Our longest engagement is with a Swiss industrial IoT company, where Ahmad has f
   <img src="https://img.shields.io/badge/Founder%20JSS-100%25-22c55e?style=for-the-badge" alt="Founder: 100% Job Success Score" />
   <img src="https://img.shields.io/badge/Founder%20earned-%2430K%2B-1f6feb?style=for-the-badge" alt="Founder: $30K+ earned on Upwork" />
   <img src="https://img.shields.io/badge/Agency%20earned-%2420K%2B-1f6feb?style=for-the-badge" alt="Agency: $20K+ earned on Upwork" />
-  <img src="https://img.shields.io/badge/Swiss%20engagement-2%2B%20years-483AA0?style=for-the-badge" alt="2+ years with a Swiss industrial IoT customer" />
+  <img src="https://img.shields.io/badge/Swiss%20engagement-2%2B%20years-502FD3?style=for-the-badge" alt="2+ years with a Swiss industrial IoT customer" />
 </p>
 
 <p align="center">
@@ -125,7 +125,7 @@ The founder's MCP tools, both MIT licensed:
 
 <p>
   <img src="https://img.shields.io/badge/MCP-1c1c1c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastMCP-483AA0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastMCP-502FD3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO26-00FFFF?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -173,7 +173,7 @@ Fixed packages: the MVP SaaS package starts at $4,399 for 6 weeks, and for a liv
 ## Get in touch
 
 <p>
-  <a href="https://idinstudio.com"><img src="https://img.shields.io/badge/Website-idinstudio.com-483AA0?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="https://idinstudio.com"><img src="https://img.shields.io/badge/Website-idinstudio.com-502FD3?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="mailto:hello@idinstudio.com"><img src="https://img.shields.io/badge/Email-hello@idinstudio.com-0d9488?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <a href="https://www.upwork.com/agencies/1845689364251812329/"><img src="https://img.shields.io/badge/Upwork%20Agency-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/~01e4b82d69dc728ba3"><img src="https://img.shields.io/badge/Upwork%20Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
@@ -218,7 +218,7 @@ We will tell you. If the right answer is a different stack or a different vendor
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:483AA0&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:502FD3&height=120&section=footer" alt="footer" />
 </p>
 
 <p align="center">
