@@ -24,7 +24,7 @@
 
 **Idin Studio** is a founder-led AI integration studio from Bogor, Indonesia, run by **Ahmad Muhyidin**. We connect AI agents to your product safely, through MCP servers and AI assistants, and build the SaaS and web platforms around them.
 
-We are a two-person studio led by Ahmad: he leads engineering and a UI/UX designer completes the team. Ahmad designs the system, directs AI coding agents under rules and tests he writes, and reviews every change before it ships.
+Ahmad runs every project himself, and when a project needs more hands he brings in software engineers or UI/UX designers he trusts. He designs the system, directs AI coding agents under rules and tests he writes, and reviews every change before it ships.
 
 Our longest engagement is with a Swiss industrial IoT company, where Ahmad has freelanced inside the engineering team via Upwork since September 2024. For an Indonesian intercity bus operator we delivered the passenger ticketing app frontend, then a fleet AI system that counts passengers from bus CCTV and sends trips with more passengers than tickets sold to auditors. We also build two products of our own, Inviboo (event SaaS) and Nawafil (an Islamic spiritual PWA). We work in Indonesian and English from WIB (UTC+7), and our hours overlap Australian business hours, European mornings and US East Coast evenings.
 
@@ -188,7 +188,7 @@ We usually reply within one working day, Jakarta time. Start a brief at <https:/
 <details>
 <summary><b>What does "founder-led" actually mean?</b></summary>
 
-Ahmad designs the system, directs AI coding agents under rules and tests he writes, and reviews every change on every engagement. You work with him directly, so we take a few clients at a time.
+Idin Studio is founder-led: Ahmad runs every project himself. He designs the system, directs AI coding agents under rules and tests he writes, and reviews every change on every engagement. When a project needs more hands, he brings in software engineers or UI/UX designers he trusts. You work with him directly, so we take a few clients at a time.
 </details>
 
 <details>
